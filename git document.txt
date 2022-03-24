@@ -1,0 +1,9 @@
+1. touch .gitignore
+2. git config --global user.name Sandeep
+3. git config --global user.email sshukla1250@gmail.com
+4. git init
+5. git add .
+6. git commit -m "Initial commit"
+7. git status
+8. git remote add origin <ssh url>
+9. git push origin master
