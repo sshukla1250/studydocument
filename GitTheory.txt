@@ -2,3 +2,10 @@ Git: Git is a version control system
 ->easily recover files
 ->who introduced an issue and when
 -> Roll back to previously working state
+
+Features:1. Snapshot not difference
+         2. Almost every operation is local
+		 3. Git has integrity
+		 4. Git generally only add data
+		 
+		 fffff
